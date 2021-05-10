@@ -28,7 +28,7 @@
 		<key>TeamMemberNameTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
 			<string>13.0f</string>
 			<key>textColor</key>
@@ -39,7 +39,7 @@
 			<key>textColorLink</key>
 			<string>#2283F6</string>
 			<key>fontName</key>
-			<string>Arial</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
@@ -50,7 +50,7 @@
 		<key>TeamMemberMessageTimeTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>11.0f</string>
 			<key>textColor</key>
@@ -61,7 +61,7 @@
 			<key>textColorLink</key>
 			<string>#2283F6</string>
 			<key>fontName</key>
-			<string>Arial</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
@@ -72,7 +72,7 @@
 		<key>UserMessageTimeTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>11.0f</string>
 			<key>textColor</key>
@@ -738,32 +738,32 @@
 		<key>TitleTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-Regular</string>
 			<key>textSize</key>
 			<string>17.0f</string>
 			<key>textColor</key>
-			<string>#800000</string>
+			<string>#FFFFFF</string>
 		</dict>
 		<key>ActionButtonStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>16.0f</string>
 			<key>textColor</key>
-			<string>#0079FF</string>
+			<string>#FFFFFF</string>
 		</dict>
 		<key>NavigationBarStyle</key>
 		<dict>
 			<key>background</key>
-			<string>#F8F8F8</string>
+			<string>#5933FF</string>
 		</dict>
 		<key>SubTitleTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-Regular</string>
 			<key>textColor</key>
-			<string>#6D6D6D</string>
+			<string>#FFFFFF</string>
 		</dict>
 	</dict>
 	<key>FAQDetail</key>
