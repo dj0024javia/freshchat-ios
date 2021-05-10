@@ -28,7 +28,7 @@
 		<key>TeamMemberNameTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>Poppins-SemiBold</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>13.0f</string>
 			<key>textColor</key>
@@ -738,9 +738,9 @@
 		<key>TitleTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>Poppins-Regular</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
-			<string>17.0f</string>
+			<string>19.0f</string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
 		</dict>
@@ -761,9 +761,11 @@
 		<key>SubTitleTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>Poppins-Regular</string>
+			<string>Lato-Regular</string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
+			<key>textSize</key>
+			<string>12</string>
 		</dict>
 	</dict>
 	<key>FAQDetail</key>
@@ -771,28 +773,28 @@
 		<key>FAQUpvoteButtonStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
 			<string>14.0f</string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
 			<key>background</key>
-			<string>#007AFF</string>
+			<string>#FF0050</string>
 			<key>borderColor</key>
 			<string>#D8D8D8</string>
 		</dict>
 		<key>FAQDownvoteButtonStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
 			<string>14.0f</string>
 			<key>textColor</key>
-			<string>#535353</string>
+			<string>#FF0050</string>
 			<key>background</key>
-			<string>#F6F6F5</string>
+			<string>#FFFFFF</string>
 			<key>borderColor</key>
-			<string>#C1C1BF</string>
+			<string>#FF0050</string>
 		</dict>
 		<key>FAQVotingPromptViewStyle</key>
 		<dict>
@@ -802,7 +804,7 @@
 		<key>FAQVotingPromptTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
@@ -849,17 +851,17 @@
 	<key>Miscellaneous</key>
 	<dict>
 		<key>DefaultGlobalFont</key>
-		<string>SYS_DEFAULT_FONT_NAME</string>
+		<string>Lato-Regular</string>
 		<key>ContactUsTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
 			<string>14.0f</string>
 			<key>textColor</key>
 			<string>#FFFFFF</string>
 			<key>background</key>
-			<string>#4D90E9</string>
+			<string>#FF0050</string>
 		</dict>
 		<key>StatusBarStyle</key>
 		<dict>
@@ -891,7 +893,7 @@
 		<key>SearchQueryTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>13.0f</string>
 			<key>textColor</key>
@@ -934,7 +936,7 @@
 		<key>FAQTitleTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-Regular</string>
 			<key>textSize</key>
 			<string>14.0f</string>
 			<key>textColor</key>
@@ -943,7 +945,7 @@
 		<key>FAQListEmptyTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
@@ -955,7 +957,7 @@
 		<key>FAQCategoryNameTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Poppins-SemiBold</string>
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
@@ -964,7 +966,7 @@
 		<key>FAQCategoryDescriptionTextStyle</key>
 		<dict>
 			<key>fontName</key>
-			<string>SYS_DEFAULT_FONT_NAME</string>
+			<string>Lato-Regular</string>
 			<key>textSize</key>
 			<string>14.0f</string>
 			<key>textColor</key>
@@ -984,7 +986,7 @@
 			<key>textSize</key>
 			<string>22.0f</string>
 			<key>background</key>
-			<string>#535353</string>
+			<string>#9E9E9E</string>
 		</dict>
 		<key>FAQCategoryListItemStyle</key>
 		<dict>
