@@ -23,7 +23,7 @@
 }
 
 -(void) initFreshchatSDK {
-    FreshchatConfig *fchatConfig = [[FreshchatConfig alloc] initWithAppID:@"52b494e1-4b33-4650-9343-b8423204129d" andAppKey:@"8a4e81f7-2c52-4116-b15e-ead6ce160516"]; //Enter your AppID and AppKey here
+    FreshchatConfig *fchatConfig = [[FreshchatConfig alloc] initWithAppID:@"" andAppKey:@""]; //Enter your AppID and AppKey here
     fchatConfig.themeName = @"CustomThemeFile";//Your Custom Theme File
     fchatConfig.domain = @"msdk.eu.freshchat.com";
     [[Freshchat sharedInstance] initWithConfig:fchatConfig];
