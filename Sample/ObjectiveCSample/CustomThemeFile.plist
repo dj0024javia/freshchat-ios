@@ -770,6 +770,20 @@
 	</dict>
 	<key>FAQDetail</key>
 	<dict>
+		<key>FAQContactUsButtonStyle</key>
+		<dict>
+			<key>fontName</key>
+			<string>Poppins-SemiBold</string>
+			<key>textSize</key>
+			<string>14.0f</string>
+			<key>textColor</key>
+			<string>#FFFFFF</string>
+			<key>background</key>
+			<string>#FF0050</string>
+			<key>borderColor</key>
+			<string>#D8D8D8</string>
+		</dict>
+
 		<key>FAQUpvoteButtonStyle</key>
 		<dict>
 			<key>fontName</key>
@@ -986,7 +1000,7 @@
 			<key>textSize</key>
 			<string>22.0f</string>
 			<key>background</key>
-			<string>#9E9E9E</string>
+			<string>#2600cc</string>
 		</dict>
 		<key>FAQCategoryListItemStyle</key>
 		<dict>
@@ -1006,10 +1020,6 @@
 		<string>FCResources.bundle/Images/freshchat_notification_cancel_icon</string>
 		<key>SearchIcon</key>
 		<string>FCResources.bundle/Images/freshchat_search_icon</string>
-		<key>ContactUsIcon</key>
-		<string>FCResources.bundle/Images/freshchat_contact_us_icon</string>
-		<key>ContactUsLightIcon</key>
-		<string>FCResources.bundle/Images/freshchat_contact_us_light_icon</string>
 		<key>BackButton</key>
 		<string>FCResources.bundle/Images/freshchat_back_button_icon</string>
 		<key>MessageSending</key>

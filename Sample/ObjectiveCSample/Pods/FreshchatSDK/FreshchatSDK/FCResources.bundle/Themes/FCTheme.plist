@@ -1004,10 +1004,10 @@
 		<string>FCResources.bundle/Images/freshchat_notification_cancel_icon</string>
 		<key>SearchIcon</key>
 		<string>FCResources.bundle/Images/freshchat_search_icon</string>
-		<key>ContactUsIcon</key>
+		<!-- <key>ContactUsIcon</key>
 		<string>FCResources.bundle/Images/freshchat_contact_us_icon</string>
 		<key>ContactUsLightIcon</key>
-		<string>FCResources.bundle/Images/freshchat_contact_us_light_icon</string>
+		<string>FCResources.bundle/Images/freshchat_contact_us_light_icon</string> -->
 		<key>BackButton</key>
 		<string>FCResources.bundle/Images/freshchat_back_button_icon</string>
 		<key>MessageSending</key>
